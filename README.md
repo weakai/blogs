@@ -4,7 +4,7 @@
 
 <details>
 <summary>
-<a href="http://www.noobyard.com/article/p-refvrttd-sy.html">八年之痒！除了NLP和CV，人工智能就不能干点别的啥了？</a>
+<a href="http://www.noobyard.com/article/p-refvrttd-sy.html">八年之痒！除了 NLP 和 CV，人工智能就不能干点别的啥了？</a>
 </summary>
 除去自然语言处理和计算机视觉两大领域，我们还有太多领域可以开拓。
 事实证明，几乎所有现代AI研究和工业应用都聚焦于两个子领域中的十几个技术问题：计算机视觉和自然语言处理。
