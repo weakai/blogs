@@ -1,1 +1,18 @@
 theme: jekyll-theme-cayman
+title: Blogs for AI+SCI
+
+highlighter: rouge
+permalink: pretty
+timezone: CN
+
+plugins: [jekyll-paginate, jekyll-feed]
+
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
