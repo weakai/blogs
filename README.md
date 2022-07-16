@@ -1,5 +1,11 @@
 ## 2022
 
+### Blogs
+
+- [Shikun Liu](https://shikun.io/projects)
+
+### Articles
+
 <details>
 <summary>
 <a href="http://www.noobyard.com/article/p-refvrttd-sy.html">八年之痒！除了 NLP 和 CV，人工智能就不能干点别的啥了？</a>
