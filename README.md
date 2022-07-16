@@ -2,9 +2,18 @@
 
 ### Blogs
 
-- [Shikun Liu](https://shikun.io/projects)
+- [Shikun Liu|优秀的 CV 博主|深度学习范式](https://shikun.io/projects)
+- [苏剑林|BoJone|科学空间博主](https://spaces.ac.cn/)
 
 ### Articles
+
+<details>
+<summary>
+<a href="https://spaces.ac.cn/archives/9105">相对位置编码 Transformer 的一个理论缺陷与对策</a>
+</summary>
+本文分析了相对位置编码Transformer的一个隐含缺陷，并探讨了相应的对策，从中引申出关于Attention矩阵的非负性、归一化方式的思考。
+</details>
+
 
 <details>
 <summary>
