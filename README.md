@@ -2,12 +2,12 @@
 
 ### Blogs
 
-- [Shikun Liu | 优秀的 CV 博主 | 深度学习范式](https://shikun.io/projects)
-- [苏剑林 | BoJone | 科学空间博主](https://spaces.ac.cn/)
+- [Shikun Liu, 优秀的 CV 博主, 深度学习范式](https://shikun.io/projects)
+- [苏剑林, BoJone, 科学空间博主](https://spaces.ac.cn/)
 
 ### Tools
 
-- [CS Ranking|A web app for ranking computer science departments](https://csrankings.org)
+- [CS Ranking, A web app for ranking computer science departments](https://csrankings.org)
 
 ### Articles
 
