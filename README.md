@@ -13,6 +13,17 @@
 
 <details>
 <summary>
+<a href="https://cloud.tencent.com/developer/article/1593111">什么是 XLNet 中的双流自注意力</a>
+</summary>
+理解 XLNet 中的双流自注意力机制。
+我相信对XLNet有一个直观的理解远比实现细节重要，所以我只解释了重排列语言建模，而没有提到另一个重要的部分，双流自注意力架构。
+但正如陈家明在评论中提到的，双流自注意力是XLNet论文的另一个亮点，所以我写这篇文章是为了尽可能清楚地解释双流自注意力。
+</details>
+
+
+
+<details>
+<summary>
 <a href="https://spaces.ac.cn/archives/9105">相对位置编码 Transformer 的一个理论缺陷与对策</a>
 </summary>
 本文分析了相对位置编码Transformer的一个隐含缺陷，并探讨了相应的对策，从中引申出关于Attention矩阵的非负性、归一化方式的思考。
